@@ -1,4 +1,6 @@
-# Project Title
+# Video game demographic analysis
+
+![Gaming](https://media.giphy.com/media/z14GEmOcp6eXu/giphy.gif)
 
 Heroes of Pymoli looks at demographics of gender and age within video game sales. Then, it looks at games with top sales, and individual users with the highest purchases.
 
